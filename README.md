@@ -1,6 +1,6 @@
 ## Hi there👋
 
-# My name is Mariangel, i'm from Argentina.
+# My name is Mariangel, I'm from Argentina.
 
 About me: Two years ago, I decided to make a career change. After learning to code with Javascript, I was very excited and didn't want to stop and that's why  I decided to dabble in IT because I wanted to keep learning, challenge myself, and improve my lifestyle. **I think it's the best decision that i have ever made.**
 
