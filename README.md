@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **marianruizdev@gmail.com**
 
+## Lenguages and tools:
+Jvascript | Node.js | Express | MySQL | PostgreSQL | Sequelize | React  |  Redux | JWT  | Passport | Testing | HTML | CSS | Bootstrap
+
 ## Soft Skills
 
 - Scrum.
@@ -22,6 +25,4 @@
 <a href="https://www.linkedin.com/in/mariangel-ruiz/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariangel-ruiz" height="30" width="40" /></a>
 </p>
 
-## Lenguages and tools:
-Jvascript | Node.js | Express | MySQL | PostgreSQL | Sequelize | React  |  Redux | JWT  | Passport | Testing | HTML | CSS | Bootstrap
 
