@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mariangel Ruiz</h1>
 <h3 align="center">FullStack Developer</h3>
 
- 🔭 I’m currently working on [My Portfolio](https://github.com/marianRuizDev/myPortfolio)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/marianRuizDev/myPortfolio)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js**, **TypeScript**, **Next.js**
 
 - 💬 Ask me about **React.js, PostgreSQL, Node.js**
 
@@ -11,9 +11,11 @@
 
 - 📫 How to reach me **marianruizdev@gmail.com**
 
-## Skills
+## Soft Skills
 
-I have experience in gastronomy and customer service, which has given me certain qualities such as **patience, kindness, _teamwork_, and _leadership_.**
+- Scrum.
+- Design Thinking.
+- I have experience working in gastronomy and customer service, which has given me certain qualities such as **patience, kindness, _teamwork_, and _leadership_.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
