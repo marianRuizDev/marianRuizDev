@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/marianRuizDev/myPortfolio)
 
-- 🌱 I’m currently learning **Vue.js**, **TypeScript**, **Next.js**
+- 🌱 I’m currently learning **TypeScript**, **Next.js**
 
 - 💬 Ask me about **React.js, PostgreSQL, Node.js**
 
@@ -12,10 +12,9 @@
 - 📫 How to reach me **marianruizdev@gmail.com**
 
 ## Lenguages and tools:
-Jvascript | Node.js | Express | MySQL | PostgreSQL | Sequelize | React  |  Redux | JWT  | Passport | Testing | HTML | CSS | Bootstrap
+   Jvascript | Node.js | Express.js | React | Vue.js | PostgreSQL | Sequelize | MySQL  |  Redux | JWT  | HTML | CSS | Bootstrap
 
 ## Soft Skills
-
 - Scrum.
 - Design Thinking.
 - I have experience working in gastronomy and customer service, which has given me certain qualities such as **patience, kindness, _teamwork_, and _leadership_.**
