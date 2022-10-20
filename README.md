@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mariangel Ruiz</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Developer</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/marianRuizDev/myPortfolio)
 
