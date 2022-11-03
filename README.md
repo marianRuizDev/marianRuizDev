@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mariangel Ruiz</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/marianRuizDev/myPortfolio)
+- 🔭 I’m currently working on [Notifications Page](https://github.com/marianRuizDev/notifications-page-main)
 
 - 🌱 I’m currently learning **TypeScript**, **Next.js**
 
