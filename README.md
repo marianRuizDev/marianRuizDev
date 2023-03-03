@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mariangel Ruiz</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on [Notifications Page](https://github.com/marianRuizDev/notifications-page-main)
+- 🔭 I’m currently working on [Mi Turno Web App](https://github.com/marianRuizDev/mi-turno-web)
 
 - 🌱 I’m currently learning **TypeScript**, **Next.js**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **marianruizdev@gmail.com**
 
 ## Lenguages and tools:
-   Jvascript | Node.js | Express.js | React | Vue.js | PostgreSQL | Sequelize | MySQL  |  Redux | JWT  | HTML | CSS | Bootstrap
+   Jvascript | Node.js | Express.js | React | Vue.js | PostgreSQL | MySQL  |  Redux | JWT  | HTML | CSS 
 
 ## Soft Skills
 - Scrum.
