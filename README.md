@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mariangel Ruiz</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on [Mi Turno Web App](https://github.com/marianRuizDev/mi-turno-web)
+- 🔭 I’m currently working on [Mi Turno Web App](https://github.com/marianRuizDev/mi-turno-webapp-back)
 
 - 🌱 I’m currently learning **TypeScript**, **Next.js**
 
