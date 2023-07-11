@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Mariangel Ruiz</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on [Mi Turno Web App](https://github.com/marianRuizDev/mi-turno-webapp-back)
+- 🔭 I’m currently working on [Bioonix](https://www.linkedin.com/company/bioonix/)
 
 - 🌱 I’m currently learning **TypeScript**, **Next.js**
 
 - 💬 Ask me about **React.js, PostgreSQL, Node.js**
 
-- 👨‍💻 I'm passionate about cooking, arts, and technology.
+- 👨‍💻 I'm passionate about cooking, music, and technology.
 
 - 📫 How to reach me **marianruizdev@gmail.com**
 
